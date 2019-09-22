@@ -1,0 +1,48 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  background: #e9f3ed;
+  font-family: "Arial";
+}
+
+.wrapper {
+  padding: 30px;
+  padding-top: 0;
+  background: #fff3e0;
+}
+
+.about-me {
+  max-width: 800px;
+  margin-left: 75px;
+  grid-template-columns: 1.5fr 1fr 1fr;
+  display: grid;
+} 
+
+.contacts {
+  display: grid;
+  grid-template-columns:  1fr 1fr;
+  max-width: 600px;
+  margin-left: 150px;
+}
+
+nav {
+  padding: 0px 10px;
+  font-size: 16px;
+  text-align: center;
+  color: #c8e0ea;
+}
+
+nav a {
+  box-sizing: border-box;
+  padding: 0 10px;
+  font-style: italic;
+}
+
+h1 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+img {
+  border-radius: 15%;
+}
