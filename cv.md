@@ -14,7 +14,7 @@ The purpose of entering RS School is to study modern WEB development technologie
 ### Skills
 I work with the Windows operating system and Windows Server at the administrator level. I have extensive experience in implementing and maintaining various software. I use SQL to fetch data from Oracle and SQL Server databases. I use the PL/SQL Developer and SQL Server Management Studio tools to work with databases. Previously I used Delphi + BDE. I use BAT, WHS, PowerShell technologies to automate the tasks of servicing user computers and daily tasks.
 
-### [Code examples](https://ned-acidalia.github.io/Example-my-PL-SQL-code/)
+### [Code examples](https://nedacidalia.github.io/Example-my-PL-SQL-code/)
 
 
 ### Experience 
